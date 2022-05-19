@@ -1,19 +1,13 @@
-## Checklist:
-
-- [ ] My code follows the style guidelines of this project
-- [ ] The commit message follows our guidelines
-- [ ] Tests for the changes have been added (for bug fixes/features)
-- [ ] Docs have been added / updated (for bug fixes / features)
+# Key Changes
 
 
-# Description
-
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
-
-
-## Type of change
-
+## Type of Change
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
+- [ ] Refactoring
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Documentation
+
+
+## Further Comments
+
