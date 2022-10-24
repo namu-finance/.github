@@ -1,13 +1,8 @@
-# Key Changes
+## Summary
 
+- Copy and paste the link to the Jira issue
+- Summary of key changes if necessary
 
-## Type of Change
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Refactoring
-- [ ] Test
-- [ ] Documentation
+## Notes
 
-
-## Further Comments
-
+- Notes to the reviewers
